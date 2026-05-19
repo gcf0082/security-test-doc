@@ -1,0 +1,11 @@
+# 工作区中间产物
+workspace/
+.tmp_chm_extract/
+
+# 测试文件
+*.chm
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
